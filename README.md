@@ -5,10 +5,10 @@ Welcome to my GitHub portfolio dedicated to competitive programming! Here you'll
 ## Table of Contents
 
 - [About Me](#about-me)
+- [Education](#education)
 - [Codeforces Profile](#codeforces-profile)
 - [LeetCode Profile](#leetcode-profile)
-- [Topcoder Profile](#topcoder-profile)
-- [Hackerrank Profile](#hackerrank-profile)
+- [TopH Profile](#toph-profile)
 - [Contact](#contact)
 
 ## About Me
